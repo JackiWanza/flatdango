@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    
+
+}
+ul{
+    list-style-type: none;
+}
+
+
+
+img{
+    width: 350px;
+    height: 350px;
+}
